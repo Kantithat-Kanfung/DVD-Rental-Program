@@ -1,0 +1,4 @@
+C:\Users\Snakeman\Desktop\DVD RENTAL\bin\Debug\FrameMainScreen.exe.config
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.exe
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.xml
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.pdb

@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=SNAKEMAN-PC\SQLEXPRESS;Initial Catalog=DVD;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ProductName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">"DVD Rental"</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">"1.0.0"</Value>
+    </Setting>
+    <Setting Name="Copyright" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">"© 2020 Alpaca, All right reserved."</Value>
+    </Setting>
+    <Setting Name="Company" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">"Alpaca, Company Limited Edition."</Value>
+    </Setting>
+    <Setting Name="Description" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">"(At runtime, the labels' text will be replaced with the application's assembly information. Customize the application's assembly information in the Application pane of Project Designer.)"</Value>
+    </Setting>
+    <Setting Name="DVDConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=snakeman-pc\sqlexpress;Initial Catalog=DVD;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=snakeman-pc\sqlexpress;Initial Catalog=DVD;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

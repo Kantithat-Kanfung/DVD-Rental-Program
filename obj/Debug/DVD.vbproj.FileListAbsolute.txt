@@ -1,0 +1,12 @@
+C:\Users\Snakeman\Desktop\DVD RENTAL\bin\Debug\FrameMainScreen.exe.config
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.exe
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.xml
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.pdb
+C:\Users\Snakeman\Desktop\DVD RENTAL\bin\Debug\FrameMainScreen.exe
+C:\Users\Snakeman\Desktop\DVD RENTAL\bin\Debug\FrameMainScreen.pdb
+C:\Users\Snakeman\Desktop\DVD RENTAL\bin\Debug\FrameMainScreen.xml
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\DVD.vbprojResolveAssemblyReference.cache
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.FrameMainScreen.resources
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.Resources.resources
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\FrameMainScreen.RentalPage.resources
+C:\Users\Snakeman\Desktop\DVD RENTAL\obj\Debug\DVD.vbproj.GenerateResource.Cache
