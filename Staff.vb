@@ -427,7 +427,7 @@ Public Class Staff
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfStaff.Text = $"Number of Actor : {dvgStaff.Rows.Count.ToString() - 1} Items"
+LabelNumberOfStaff.Text = $"Number of Staff : {dvgStaff.Rows.Count.ToString() - 1} Items"
     End Sub
 
     Private Sub SearchStaff(ByVal name As String)
@@ -502,7 +502,7 @@ Public Class Staff
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfStaff.Text = $"Number of Actor : {dvgStaff.Rows.Count.ToString() - 1} Items"
+        LabelNumberOfStaff.Text = $"Number of Staff : {dvgStaff.Rows.Count.ToString() - 1} Items"
     End Sub
 
     Public Sub AddStaff()
