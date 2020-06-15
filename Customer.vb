@@ -437,7 +437,7 @@ Public Class Customer
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfCustomer.Text = $"Number of Actor : {dvgCustomers.Rows.Count.ToString() - 1} Items"
+LabelNumberOfCustomer.Text = $"Number of Customers : {dvgCustomers.Rows.Count.ToString() - 1} Items"
     End Sub
 
     Private Sub SearchCustomer(ByVal name As String)
@@ -516,7 +516,7 @@ Public Class Customer
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfCustomer.Text = $"Number of Actor : {dvgCustomers.Rows.Count.ToString() - 1} Items"
+        LabelNumberOfCustomer.Text = $"Number of Customers : {dvgCustomers.Rows.Count.ToString() - 1} Items"
     End Sub
 
     Public Sub AddCustomer()
