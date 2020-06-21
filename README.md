@@ -14,6 +14,9 @@
 ### Tools used
 	1. Microsoft Visual Studio 2015
 	2. Microsoft SQL SERVER 2014
+	
+### Video Demo
+	https://youtu.be/b3dlpGE9UDg
 
 ### Contact
 	G-mail : kantithat.kanfung@gmail.com
