@@ -1,5 +1,5 @@
 # DVD Rental Program
-	![title](PictureApp/main_page.png)
+![title](PictureApp/main_page.png)
 	The ceated for learning.
 	
 ### Expect in the future
