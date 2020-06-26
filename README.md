@@ -1,7 +1,8 @@
 # DVD Rental Program
-![title](PictureApp/main_page.png)
 	The ceated for learning.
-	
+
+![title](PictureApp/main_page.png)
+
 ### Expect in the future
 	- Add barcodes or QR codes for those movies
 	- The create receipt
