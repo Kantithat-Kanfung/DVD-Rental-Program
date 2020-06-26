@@ -2,6 +2,7 @@
 	
 	The ceated for learning.
 ![title](pictureApp/main_page.png)
+![title](PictureApp/main_page.png)
 
 ### Expect in the future
 	- Add barcodes or QR codes for those movies
