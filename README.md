@@ -1,9 +1,7 @@
 # DVD Rental Program
 	
 	The ceated for learning.
-![title](pictureApp/main_page.png)
-![title](PictureApp/main_page.png)
-
+	
 ### Expect in the future
 	- Add barcodes or QR codes for those movies
 	- The create receipt
@@ -18,6 +16,7 @@
 	2. Microsoft SQL SERVER 2014
 	
 ### Video Demo
+	![title](PictureApp/main_page.png)
 	https://youtu.be/b3dlpGE9UDg
 
 ### Contact
