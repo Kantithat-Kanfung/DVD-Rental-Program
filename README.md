@@ -1,5 +1,5 @@
 # DVD Rental Program
-	
+	![title](PictureApp/main_page.png)
 	The ceated for learning.
 	
 ### Expect in the future
@@ -16,7 +16,6 @@
 	2. Microsoft SQL SERVER 2014
 	
 ### Video Demo
-	![title](PictureApp/main_page.png)
 	https://youtu.be/b3dlpGE9UDg
 
 ### Contact
