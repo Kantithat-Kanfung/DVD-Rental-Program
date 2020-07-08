@@ -5,10 +5,8 @@ Imports System.Security.Cryptography
 
 Module Md
 
-    ' Your Servername and Database
     Public ConStr As String = My.Settings.ConStr
 
-    ' Test connect database
     Public Sub ConnectDatabase()
         Try
             Dim Connection As New SqlConnection(ConStr)
@@ -23,7 +21,6 @@ Module Md
         End Try
     End Sub
 
-    ' Write Log file when can't disconnect database
     Private Sub WriteLogErrorConnectDatabase(ByVal Content As String)
         Dim fs = My.Computer.FileSystem
 
