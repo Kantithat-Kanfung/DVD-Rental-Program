@@ -1,5 +1,5 @@
 # DVD Rental Program
-	The ceeated for learning.
+	The created for learning.
 
 ![title](PictureApp/main_page.png)
 
