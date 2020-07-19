@@ -1,5 +1,5 @@
 # DVD Rental Program
-	The ceated for learning.
+	The ceeated for learning.
 
 ![title](PictureApp/main_page.png)
 
@@ -12,11 +12,11 @@
 ### Download Database
 [https://drive.google.com/drive/folders/1jxNaDwFMRiCYkX_OV_-mrUh4JapTfC-a](https://drive.google.com/drive/folders/1jxNaDwFMRiCYkX_OV_-mrUh4JapTfC-a)
 	
-### Technologies
+### Tools
 	1. Microsoft Visual Studio 2015
 	2. Microsoft SQL SERVER 2014
 	
-### Video Demo
+### Demo video
 [https://youtu.be/b3dlpGE9UDg](https://youtu.be/b3dlpGE9UDg)
 
 ### Contact
