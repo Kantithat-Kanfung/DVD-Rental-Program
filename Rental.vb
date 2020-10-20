@@ -171,7 +171,7 @@ Public Class RentalPage
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfMovies.Text = $"Number of Movies : {dvgFilm.Rows.Count.ToString() - 1} Items"
+        LabelNumberOfMovies.Text = $"Number of Movies : {dvgFilm.Rows.Count - 1} Items"
     End Sub
 
     Private Sub SearchCustomer(ByVal condition As String)
@@ -203,7 +203,7 @@ Public Class RentalPage
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumerOfCustomer.Text = $"Number of Customers : {dvgCustomer.Rows.Count.ToString() - 1} Items"
+        LabelNumerOfCustomer.Text = $"Number of Customers : {dvgCustomer.Rows.Count - 1} Items"
     End Sub
 
     Private Sub Staff(ByVal condition As String)
