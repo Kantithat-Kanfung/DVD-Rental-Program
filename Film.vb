@@ -452,7 +452,7 @@ Public Class Film
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfFilm.Text = $"Number of Actor : {dvgFilm.Rows.Count.ToString() - 1} Items"
+        LabelNumberOfFilm.Text = $"Number of Actor : {dvgFilm.Rows.Count - 1} Items"
     End Sub
 
     Private Sub SearchFilm(ByVal title As String)
