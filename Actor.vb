@@ -266,7 +266,7 @@ Public Class Actor
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfActor.Text = $"Number of Actor : {dvgActor.Rows.Count.ToString() - 1} Items"
+        LabelNumberOfActor.Text = $"Number of Actor : {dvgActor.Rows.Count - 1} Items"
     End Sub
 
     Public Sub AddActor()
