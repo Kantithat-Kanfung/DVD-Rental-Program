@@ -285,7 +285,7 @@ Public Class Inventory
             WriteLogMistakeQuery(ex.Message.ToString())
         End Try
 
-        LabelNumberOfInventory.Text = $"Number of Actor : {dvgInventory.Rows.Count.ToString() - 1} Items"
+        LabelNumberOfInventory.Text = $"Number of Actor : {dvgInventory.Rows.Count - 1} Items"
     End Sub
 
     Private Sub SearchFilm(ByVal id As String)
