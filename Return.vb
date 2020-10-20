@@ -89,11 +89,11 @@ Public Class usrCtrlReturn
                                     	r.return_date,
                                     	f.replacement_cost,
                                         CASE	
-											WHEN	
-												FORMAT(GETDATE(), 'dd-MM-yyyy') < FORMAT(r.return_date, 'dd-MM-yyyy') THEN 'True' 
-											ELSE
-												'False'
-										END AS overdue,
+						WHEN	
+							FORMAT(GETDATE(), 'dd-MM-yyyy') < FORMAT(r.return_date, 'dd-MM-yyyy') THEN 'True' 
+						ELSE
+							'False'
+						END AS overdue,
                                         DATEDIFF(DAY, GETDATE(), r.return_date) AS day_difference
                                     FROM
                                     	rental AS r
